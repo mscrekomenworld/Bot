@@ -3,39 +3,39 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6282393267884'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6282393267884']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'FAAT KEBAB'
+global.noown = '6282393267884'
+global.namebot = 'FAAT BOTZ'
+global.nobot = '62823932678841'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
+global.instagram = 'https://instagram.com/muhsyafaat1302'
+global.github = 'https://github.com/mscrekomenworld'
+global.gc = 'https://chat.whatsapp.com/CeOJaWD1xLT6g6rJXczWH7'
 global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.saweria = 'https://saweria.co/faatbot'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '082190464669'
+global.pulsa = '08239327884'
+global.gopay = '08239327884'
+global.shopay = '08239327884'
+global.ovo = '0882393267884'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/5cf75dedba3955090a0b5.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/7d4400af8a9025741b651.jpg' //ini juga ganti 
 global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
 global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
 global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
-global.ppm = 'https://telegra.ph/file/85f5dd4cfb4fdd9d65cbf.jpg'  // bagian atas all command
+global.ppm = 'https://telegra.ph/file/5cf75dedba3955090a0b5.jpg'  // bagian atas all command
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
