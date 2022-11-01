@@ -47,7 +47,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/7d4400af8a9025741b651.jpg'
 
 // FAKE SIZE
 global.fsizedoc = '99999999999999' // default 10TB
@@ -56,8 +56,8 @@ global.fpagedoc = '999'
 // WATERMARK  
 global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑭𝒂𝒂𝒕𝑲𝒆𝒃𝒂𝒃'
+global.wm3 = '⫹⫺ 𝑭𝑨𝑨𝑻_𝑩𝑶𝑻𝒁 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -77,16 +77,16 @@ global.ftb = '┃\n┗━━══┅┅══━━━✦\n'
 
 global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃
-┃⫹⫺ Nurutomo
-┃⫹⫺ Ilmanhdyt
-┃⫹⫺ Elyas
-┃⫹⫺ Hyzer
-┃⫹⫺ KrizynOfc
-┃⫹⫺ Zivsan
-┃⫹⫺ Mursid
-┃⫹⫺ Jarot
-┃⫹⫺ Kanna
-┃⫹⫺ Fokusid
+┃⫹⫺ Madan_Tampan >_<
+┃⫹⫺ Faat_Kebab
+┃⫹⫺ Raffi_Pro_EPEP
+┃⫹⫺ Sabri_Baperan
+┃⫹⫺ Aiman_MasterChef
+┃⫹⫺ Kawan_Kawan_Ku
+┃⫹⫺ Daffa_Dibunuh_Psikopat
+┃⫹⫺ Barudak_Ngawi
+┃⫹⫺ Rehan_Wangsaff
+┃⫹⫺ Tq_Buat_Yang_Punya_SC_krizynOfc
 ┃
 ┗━━══┅┅══━━━✦`
         
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = '𝑭𝑨𝑨𝑻_𝑩𝑶𝑻𝒁'
+global.author = '𝑩𝒚 𝑭𝒂𝒂𝒕𝑲𝒆𝒃𝒂𝒃'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
